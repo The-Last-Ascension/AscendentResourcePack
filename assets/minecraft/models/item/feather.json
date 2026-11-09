@@ -1,0 +1,278 @@
+﻿{
+    "parent":  "item/generated",
+    "textures":  {
+                     "layer0":  "item/feather"
+                 },
+    "overrides":  [
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2000
+                                        },
+                          "model":  "rpg_essentials_1_model/bar_copper"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2001
+                                        },
+                          "model":  "rpg_essentials_1_model/bar_diamond"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2002
+                                        },
+                          "model":  "rpg_essentials_1_model/bar_dragonite"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2003
+                                        },
+                          "model":  "rpg_essentials_1_model/bar_emerald"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2004
+                                        },
+                          "model":  "rpg_essentials_1_model/bar_gold"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2005
+                                        },
+                          "model":  "rpg_essentials_1_model/bar_iron"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2006
+                                        },
+                          "model":  "rpg_essentials_1_model/bar_ruby"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2007
+                                        },
+                          "model":  "rpg_essentials_1_model/bar_sapphire"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2008
+                                        },
+                          "model":  "rpg_essentials_1_model/bar_topaz"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2009
+                                        },
+                          "model":  "rpg_essentials_1_model/coin"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2010
+                                        },
+                          "model":  "rpg_essentials_1_model/key_aqua"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2011
+                                        },
+                          "model":  "rpg_essentials_1_model/key_bone"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2012
+                                        },
+                          "model":  "rpg_essentials_1_model/key_forest"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2013
+                                        },
+                          "model":  "rpg_essentials_1_model/key_golden"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2014
+                                        },
+                          "model":  "rpg_essentials_1_model/key_ice"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2015
+                                        },
+                          "model":  "rpg_essentials_1_model/key_light"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2016
+                                        },
+                          "model":  "rpg_essentials_1_model/key_magma"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2017
+                                        },
+                          "model":  "rpg_essentials_1_model/key_shadow"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2018
+                                        },
+                          "model":  "rpg_essentials_1_model/key_wooden"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2019
+                                        },
+                          "model":  "rpg_essentials_1_model/key_wind"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2020
+                                        },
+                          "model":  "rpg_essentials_1_model/rock"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2021
+                                        },
+                          "model":  "rpg_essentials_1_model/twig"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2022
+                                        },
+                          "model":  "rpg_essentials_1_model/rune_aqua"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2023
+                                        },
+                          "model":  "rpg_essentials_1_model/rune_fire"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2024
+                                        },
+                          "model":  "rpg_essentials_1_model/rune_ice"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2025
+                                        },
+                          "model":  "rpg_essentials_1_model/rune_light"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2026
+                                        },
+                          "model":  "rpg_essentials_1_model/rune_nature"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2027
+                                        },
+                          "model":  "rpg_essentials_1_model/rune_shadow"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2028
+                                        },
+                          "model":  "rpg_essentials_1_model/rune_undead"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2029
+                                        },
+                          "model":  "rpg_essentials_1_model/rune_wind"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2030
+                                        },
+                          "model":  "rpg_essentials_2_model/cactus"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2031
+                                        },
+                          "model":  "rpg_essentials_2_model/deathbloom"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2032
+                                        },
+                          "model":  "rpg_essentials_2_model/four_leaf_clover"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2033
+                                        },
+                          "model":  "rpg_essentials_2_model/magical_herb"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2034
+                                        },
+                          "model":  "rpg_essentials_2_model/mushroom_glowing"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2035
+                                        },
+                          "model":  "rpg_essentials_2_model/mushroom_red"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2036
+                                        },
+                          "model":  "rpg_essentials_2_model/potion_eternal"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2037
+                                        },
+                          "model":  "rpg_essentials_2_model/potion_large"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2038
+                                        },
+                          "model":  "rpg_essentials_2_model/potion_minor"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2039
+                                        },
+                          "model":  "rpg_essentials_2_model/potion_small"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2040
+                                        },
+                          "model":  "rpg_essentials_2_model/potion_superior"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2041
+                                        },
+                          "model":  "rpg_essentials_2_model/scroll_return"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2042
+                                        },
+                          "model":  "rpg_essentials_2_model/scroll_teleport"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2043
+                                        },
+                          "model":  "rpg_essentials_2_model/shamrock"
+                      },
+                      {
+                          "predicate":  {
+                                            "custom_model_data":  2044
+                                        },
+                          "model":  "rpg_essentials_2_model/wild_berry"
+                      }
+                  ]
+}

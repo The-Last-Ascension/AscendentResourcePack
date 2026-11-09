@@ -1,0 +1,340 @@
+﻿{
+    "sources":  [
+                    {
+                        "prefix":  "entity/models/",
+                        "source":  "entity/models",
+                        "type":  "directory"
+                    },
+                    {
+                        "pattern":  {
+                                        "namespace":  "minecraft",
+                                        "path":  "entity/fishing_hook"
+                                    },
+                        "type":  "filter"
+                    },
+                    {
+                        "prefix":  "rpg_essentials_core_texture/",
+                        "source":  "rpg_essentials_core_texture",
+                        "type":  "directory"
+                    },
+                    {
+                        "prefix":  "rpg_essentials_1_texture/",
+                        "source":  "rpg_essentials_1_texture",
+                        "type":  "directory"
+                    },
+                    {
+                        "prefix":  "rpg_essentials_2_texture/",
+                        "source":  "rpg_essentials_2_texture",
+                        "type":  "directory"
+                    },
+                    {
+                        "prefix":  "entity/",
+                        "source":  "entity",
+                        "type":  "directory"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_1_texture/bar_copper"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_1_texture/bar_diamond"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_1_texture/bar_dragonite"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_1_texture/bar_emerald"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_1_texture/bar_gold"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_1_texture/bar_iron"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_1_texture/bar_ruby"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_1_texture/bar_sapphire"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_1_texture/bar_topaz"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_1_texture/coin"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_1_texture/key_aqua"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_1_texture/key_bone"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_1_texture/key_forest"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_1_texture/key_golden"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_1_texture/key_ice"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_1_texture/key_light"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_1_texture/key_magma"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_1_texture/key_shadow"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_1_texture/key_wind"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_1_texture/key_wooden"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_1_texture/rock"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_1_texture/rune_aqua"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_1_texture/rune_fire"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_1_texture/rune_ice"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_1_texture/rune_light"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_1_texture/rune_nature"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_1_texture/rune_shadow"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_1_texture/rune_undead"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_1_texture/rune_wind"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_1_texture/twig"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "modelengine:entity/barrel_explosive"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "modelengine:entity/barrel_poison"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "modelengine:entity/boulder"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "modelengine:entity/chest_aqua"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "modelengine:entity/chest_bone"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "modelengine:entity/chest_forest"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "modelengine:entity/chest_golden"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "modelengine:entity/chest_ice"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "modelengine:entity/chest_light"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "modelengine:entity/chest_magma"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "modelengine:entity/chest_shadow"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "modelengine:entity/chest_wind"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "modelengine:entity/chest_wooden"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "modelengine:entity/log"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "modelengine:entity/ore_copper"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "modelengine:entity/ore_diamond"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "modelengine:entity/ore_dragonite"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "modelengine:entity/ore_emerald"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "modelengine:entity/ore_gold"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "modelengine:entity/ore_iron"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "modelengine:entity/ore_ruby"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "modelengine:entity/ore_sapphire"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "modelengine:entity/ore_topaz"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "modelengine:entity/pebbles"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "modelengine:entity/runestone_heal"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "modelengine:entity/runestone_resistance"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "modelengine:entity/runestone_speed"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "modelengine:entity/runestone_strength"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "modelengine:entity/vase_common"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "modelengine:entity/vase_small"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "modelengine:entity/vase_tall"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_2_texture/cactus"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_2_texture/deathbloom"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_2_texture/clover"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_2_texture/magical_herb"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_2_texture/mushroom_glowing"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_2_texture/mushroom_red"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_2_texture/potion_eternal"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_2_texture/potion_large"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_2_texture/potion_minor"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_2_texture/potion_small"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_2_texture/potion_superior"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_2_texture/scroll_return"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_2_texture/scroll_teleport"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_2_texture/shamrock"
+                    },
+                    {
+                        "type":  "single",
+                        "resource":  "minecraft:rpg_essentials_2_texture/wild_berry"
+                    }
+                ]
+}

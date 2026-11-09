@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/models/merchant_potion","particle":"#0"},"elements":[{"from":[6.5,7.5,8.0],"to":[9.5,8.5,8.0],"faces":{"south":{"uv":[8.625,5.25,8.25,5.375],"tintindex":0,"rotation":0,"texture":"#0"},"north":{"uv":[8.25,5.25,8.625,5.375],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[-150.0,-45.0,180.0]}}}

@@ -1,6 +1,6 @@
 {
   "name": "AscendentResourcePack",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "minecraft_version": "1.21.1",
-  "description": "Paquete de recursos principal de The Last Ascension (Ascendant): modelos, interfaces con pestañas, iconos elementales y voces (ES/JP)."
+  "description": "Paquete de recursos principal de The Last Ascension (Ascendant): modelos 3D (ModelEngine), ítems RPG (SamusDev Core/Vol1/Vol2), interfaces con pestañas, iconos elementales y voces (ES/JP)."
 }
