@@ -1,0 +1,16 @@
+{
+  "ascendent.server.name": "The Last Ascension",
+  "ascendent.city.main": "Ascendant",
+  "ascendent.element.igneo": "Igneous",
+  "ascendent.element.sylva": "Sylva",
+  "ascendent.element.terra": "Terra",
+  "ascendent.element.fulmen": "Fulmen",
+  "ascendent.element.crio": "Cryo",
+  "ascendent.element.cefiro": "Zephyr",
+  "ascendent.element.umbra": "Umbra",
+  "ascendent.element.astral": "Astral",
+  "ascendent.combat.parry": "PERFECT PARRY!",
+  "ascendent.combat.block": "Blocked",
+  "ascendent.combat.stunned": "STUNNED!",
+  "ascendent.combat.reviving": "Reviving %s..."
+}
